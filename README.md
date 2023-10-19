@@ -1,2 +1,2 @@
-# swapping-messager
-Swapping Messager - Easily Integrated Instant Messaging (IM) System
+# swapping-messenger
+Swapping Messenger - Easily Integrated Instant Messenger (IM) System
